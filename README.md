@@ -1,6 +1,14 @@
 # clean_arc_tests
 
-A new Flutter project.
+### Hi there Hello welcome ;]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://www.linkedin.com/in/marcos-fabiano-correia-rangel/">
+  <img align="left" alt="Marcos Rangel' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=correiarangel)
+
+
 
 ## Getting Started
 
