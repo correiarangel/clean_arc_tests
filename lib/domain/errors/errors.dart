@@ -1,6 +1,10 @@
 abstract class PostExcepition implements Exception {
   final String message;
-  final StackTrace stackTrace;
+  final StackTrace? stackTrace;
 
-  PostExcepition({required this.message, required this.stackTrace});
+  PostExcepition(this.message, [this.stackTrace]);
+}
+
+class InvalidPostParams extends PostExcepition {
+  InvalidPostParams(String message) : super(message);
 }
