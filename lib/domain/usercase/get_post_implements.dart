@@ -11,9 +11,13 @@ class GetPostImplements implements IGetPost {
 
   @override
   FuturePostCall call({required PostParamDTO params}) async {
-    if (params.page < 1) {
-      return Left(InvalidPostParams('Pagina não pode ser menor que 1 '));
-    }
+    if (params.page <= 0) 
+      return Left(InvalidPostParams('Pagina não pode ser menor que 1 :['));
+    
+
+    if (params.offSet <= 0) 
+      return Left(InvalidPostParams('Offset  não pode ser menor que 1 :['));
+    
     return repository.fetthPosts(params);
   }
 }

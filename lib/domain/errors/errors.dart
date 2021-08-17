@@ -8,3 +8,7 @@ abstract class PostExcepition implements Exception {
 class InvalidPostParams extends PostExcepition {
   InvalidPostParams(String message) : super(message);
 }
+
+class PostRepositoryException extends PostExcepition {
+  PostRepositoryException(String message) : super(message);
+}
