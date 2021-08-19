@@ -6,15 +6,16 @@
   <img align="left" alt="Marcos Rangel' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-## AULÃO: Teste de Unidade no Flutter
+### AULÃO: Teste de Unidade no Flutter
 
 Projeto simples baseado em aulão Flutterando ministrado por Jacob com conceitos de Clean Arquitetura e teste de unidade sem interface gráfica do App.
 ### #Flutterando
 
-### Veja na integra - AULÃO: Teste de Unidade no Flutter
+#### Veja na integra - AULÃO: Teste de Unidade no Flutter
 <a href="https://www.youtube.com/watch?v=BLHPRg8ickY&t=1994s">
   <img align="left" alt="AULÃO: Teste de Unidade no Flutter" width="22px" 
-       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" /></a>
+       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" /></a> <br>
+       
 
 ## Getting Started
 
